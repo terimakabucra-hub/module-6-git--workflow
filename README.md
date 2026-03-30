@@ -641,7 +641,7 @@
   <!-- Footer -->
   <div class="footer">
     <div class="container">
-      <p>© 2025 GlassFlow. Designed for your Git & GitHub workflow project.</p>
+      <p>© 2026 GlassFlow. Designed for your Git & GitHub workflow project.</p>
     </div>
   </div>
  
